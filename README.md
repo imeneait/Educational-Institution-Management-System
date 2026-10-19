@@ -1,4 +1,4 @@
-# YottaMind
+# YottaMind: School Management System
 ## Software Engineering Project
 
 ### TEAM INFORMATION  
